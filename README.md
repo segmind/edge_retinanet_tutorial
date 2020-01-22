@@ -1,5 +1,12 @@
-# RetinaNet on Segmind Edge
+# Segmind Edge
 
-### Tutorial on how to use RetinaNet for object detection
+### Tutorial on how to use Segmind Edge Library
 
-Get started with RetinaNet for you project. This jupyter notebook will help you understand the APIs provided by Segmind Edge library and use it in your projects. 
+Get started with your deep learning project. This jupyter notebook will help you understand the APIs provided by Segmind Edge library and use it in your projects. 
+
+### Detection
+- RetinaNet
+
+### Segmentation
+- Deeplab V3
+- Unet 8
