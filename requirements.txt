@@ -1,0 +1,5 @@
+# edge==0.3.2
+https://segmind-data.s3.ap-south-1.amazonaws.com/edge/dist/edge-0.3.0/edge-0.3.2-cp36-cp36m-linux_x86_64.whl
+
+# Jupyter metapackage. Install all the Jupyter components in one go.
+jupyter==1.0.0
