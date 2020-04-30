@@ -1,5 +1,8 @@
-# edge==0.3.2
-https://segmind-data.s3.ap-south-1.amazonaws.com/edge/dist/edge-0.3.0/edge-0.3.2-cp36-cp36m-linux_x86_64.whl
+# edge==0.4.2-dev
+https://segmind-data.s3.ap-south-1.amazonaws.com/edge/dist/edge-0.4.0/edge-0.4.0.dev0-cp36-cp36m-linux_x86_64.whl
+
+# mlflow_lite==0.0.1-dev
+https://segmind-data.s3.ap-south-1.amazonaws.com/edge/dist/mlflowlite/mlflow_lite-0.0.1.dev0-py3-none-any.whl
 
 # Jupyter metapackage. Install all the Jupyter components in one go.
 jupyter==1.0.0
