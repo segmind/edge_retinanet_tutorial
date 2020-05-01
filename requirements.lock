@@ -1,4 +1,6 @@
+absl-py==0.9.0
 alembic==1.4.2
+astor==0.8.1
 attrs==19.3.0
 backcall==0.1.0
 bleach==3.1.5
@@ -19,9 +21,12 @@ docutils==0.15.2
 edge==0.4.0.dev0
 entrypoints==0.3
 Flask==1.1.2
+gast==0.2.2
 gitdb==4.0.4
 GitPython==3.1.1
+google-pasta==0.2.0
 gorilla==0.3.0
+grpcio==1.28.1
 gunicorn==20.0.4
 h5py==2.10.0
 idna==2.9
@@ -48,6 +53,7 @@ keras-retinanet==0.5.1
 kiwisolver==1.2.0
 logzero==1.5.0
 Mako==1.1.2
+Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mistune==0.8.4
@@ -58,6 +64,7 @@ nbformat==5.0.6
 notebook==6.0.3
 numpy==1.18.3
 opencv-python==4.2.0.34
+opt-einsum==3.2.1
 packaging==20.3
 pandas==1.0.3
 pandocfilters==1.4.2
@@ -96,6 +103,10 @@ smmap==3.0.2
 SQLAlchemy==1.3.16
 sqlparse==0.3.1
 tabulate==0.8.7
+tensorboard==1.15.0
+tensorflow==1.15.0
+tensorflow-estimator==1.15.1
+termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.4
@@ -107,4 +118,5 @@ webencodings==0.5.1
 websocket-client==0.57.0
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
+wrapt==1.12.1
 zipp==3.1.0
