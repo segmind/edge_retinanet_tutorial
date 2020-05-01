@@ -32,3 +32,33 @@ Get started with your deep learning project. These jupyter notebooks will help y
 - resnet152
 - resnet152v2
 - xception
+
+### Getting Started
+
+- Clone this repository
+    ```bash
+    git clone git@github.com:segmind/edge_tutorials.git
+    ```
+
+- Optional steps for Ubuntu
+
+    - Install python3-pkg-resources
+
+        ```bash
+        sudo apt install --reinstall python3-pkg-resources
+        ```
+
+    - Install setuptools
+        ```bash
+        pip3 install --upgrade setuptools
+        ```
+
+- Set up virtualenv for the project
+    ```bash
+    python3 -m venv venv
+    ```
+
+- Install/upgrade the pip3 libraries
+    ```bash
+    pip3 install -r requirements.lock
+    ```
